@@ -6,6 +6,6 @@ public class GitTest {
         System.out.println("hello git2");
         System.out.println("hello git3");
         System.out.println("hello git3");
-        System.out.println("master commit1");
+        System.out.println("branch-test commit1");
     }
 }
